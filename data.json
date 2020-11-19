@@ -1,32 +1,32 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 307,
-    "open_issues_count": 27,
+    "stargazers_count": 308,
+    "open_issues_count": 25,
     "forks_count": 86
   },
   {
     "full_name": "cncf/sig-contributor-strategy",
     "stargazers_count": 32,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 11
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 71741,
-    "open_issues_count": 2795,
-    "forks_count": 25955
+    "stargazers_count": 71768,
+    "open_issues_count": 2820,
+    "forks_count": 25976
   },
   {
     "full_name": "cncf/sig-contributor-strategy",
     "stargazers_count": 32,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 11
   },
   {
     "full_name": "linkerd/linkerd2",
-    "stargazers_count": 6225,
-    "open_issues_count": 242,
-    "forks_count": 644
+    "stargazers_count": 6228,
+    "open_issues_count": 234,
+    "forks_count": 648
   }
 ]
