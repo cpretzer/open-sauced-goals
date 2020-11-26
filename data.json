@@ -1,7 +1,7 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 26,
     "forks_count": 86
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 71893,
-    "open_issues_count": 2855,
-    "forks_count": 26018
+    "stargazers_count": 71955,
+    "open_issues_count": 2884,
+    "forks_count": 26042
   },
   {
     "full_name": "cncf/sig-contributor-strategy",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "linkerd/linkerd2",
-    "stargazers_count": 6243,
-    "open_issues_count": 238,
-    "forks_count": 653
+    "stargazers_count": 6249,
+    "open_issues_count": 240,
+    "forks_count": 655
   }
 ]
