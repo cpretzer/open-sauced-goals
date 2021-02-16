@@ -13,9 +13,9 @@
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 74324,
-    "open_issues_count": 2891,
-    "forks_count": 26955
+    "stargazers_count": 74372,
+    "open_issues_count": 2915,
+    "forks_count": 26972
   },
   {
     "full_name": "cncf/sig-contributor-strategy",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "linkerd/linkerd2",
-    "stargazers_count": 6557,
-    "open_issues_count": 281,
-    "forks_count": 711
+    "stargazers_count": 6566,
+    "open_issues_count": 284,
+    "forks_count": 712
   }
 ]
